@@ -52,6 +52,8 @@ padding: 10PX;
   padding: 20px;
   gap:10px;
   grid-template-areas: 'A A A' 'B C D' 'B E E';
+  justify-content: center;
+  align-content: stretch;
 
 }
 .grid-container2 div{
